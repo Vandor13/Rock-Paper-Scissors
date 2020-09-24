@@ -1,0 +1,24 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # read animals.txt
+    # and write animals_new.txt
+  learner_created: false
+- name: animals.txt
+  visible: true
+  learner_created: true
+- name: animals_new.txt
+  visible: true
+  learner_created: true
+- name: stderr test.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8341
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8341">JetBrains
+    Academy</a></html>
+  time: Thu, 24 Sep 2020 10:23:04 UTC
+record: -1

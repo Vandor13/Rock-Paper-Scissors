@@ -99,5 +99,24 @@ files:
     RPSTest("rps.game").run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/78/stages/432/implement
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: |-
+    Exception in test #1
+
+    Probably your program run out of input (tried to read more than expected)
+
+    Traceback (most recent call last):
+      File "game.py", line 20, in <module>
+        gesture = input()
+    EOFError: EOF when reading a line
+
+    Please find below the output of your program during this failed test.
+    Note that the '>' character indicates the beginning of the input line.
+
+    ---
+
+    > rock
+    Well done. The computer chose scissors and failed
+  time: Tue, 22 Sep 2020 12:00:54 UTC
+record: 2

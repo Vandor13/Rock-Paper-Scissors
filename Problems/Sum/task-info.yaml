@@ -1,0 +1,22 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# read sums.txt'
+  learner_created: false
+- name: sums.txt
+  visible: true
+  learner_created: true
+- name: write_test.py
+  visible: true
+  learner_created: true
+- name: names.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8145
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8145">JetBrains
+    Academy</a></html>
+  time: Thu, 24 Sep 2020 08:10:54 UTC
+record: -1

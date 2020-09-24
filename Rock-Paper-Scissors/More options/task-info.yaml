@@ -220,6 +220,17 @@ files:
     if __name__ == '__main__':
         RPSTest("rps.game").run_tests()
   learner_created: false
+- name: rps/rating.txt
+  visible: true
+  text: |-
+    Tim 350
+    Jane 200
+    Alex 400
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/78/stages/435/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/78/stages/435/implement">JetBrains
+    Academy</a>
+  time: Thu, 24 Sep 2020 19:37:05 UTC
 record: -1
